@@ -5,7 +5,7 @@ This repository contains the solution for Task-02, which focuses on performing d
 
 ## Dataset
 - **Dataset Name:** Titanic Dataset  
-- **File Used:** `train.csv`  
+- **File Used:** `test.csv`  
 - **Source:** Prodigy Infotech / Kaggle  
 - **Description:**  
   The dataset contains information about passengers such as age, gender, class, fare, and survival status.
